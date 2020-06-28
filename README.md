@@ -1,1 +1,3 @@
-Example of of masonry style with grid
+# Grid Masonry
+
+Example of masonry style with grid
